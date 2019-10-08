@@ -33,5 +33,7 @@
     },
     "suggest": {
         "ext-gettext": "Install gettext and php5-gettext libs to handle translations"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
